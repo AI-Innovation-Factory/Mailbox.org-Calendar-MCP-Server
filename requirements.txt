@@ -1,0 +1,4 @@
+mcp[cli]==1.26.0
+caldav==3.0.1
+vobject==0.9.9
+python-dotenv==1.2.2
